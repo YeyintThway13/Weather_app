@@ -5,6 +5,7 @@ const geocode = require('./utils/geocode')
 const forecast = require('./utils/forecast')
 
 const app = express()
+const port = process.env.PORT || 3000
 
 //Setup file path
 const Dir_path = path.join(__dirname,'../public')
@@ -94,6 +95,6 @@ app.get('*', (req, res) => {
 
 
 
-app.listen(2000,()=>{
-    console.log('Sever is running at 2000')
+app.listen(port,()=>{
+    console.log('Sever is running at '+ port)
 })
