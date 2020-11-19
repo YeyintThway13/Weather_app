@@ -18,7 +18,9 @@
   <component name="ChangeListManager">
     <list default="true" id="882af818-de52-410d-aedb-2770576a4622" name="Default Changelist" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/public/js/script.js" beforeDir="false" afterPath="$PROJECT_DIR$/public/js/script.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/public/css/style.css" beforeDir="false" afterPath="$PROJECT_DIR$/public/css/style.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/public/img/su2.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/templates/views/about.hbs" beforeDir="false" afterPath="$PROJECT_DIR$/templates/views/about.hbs" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -46,7 +48,7 @@
     <property name="DefaultHtmlFileTemplate" value="HTML File" />
     <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$/../web-server" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
     <property name="list.type.of.created.stylesheet" value="CSS" />
     <property name="node.js.detected.package.eslint" value="true" />
     <property name="node.js.detected.package.tslint" value="true" />
@@ -77,7 +79,9 @@
       <workItem from="1605694966782" duration="680000" />
       <workItem from="1605708166577" duration="695000" />
       <workItem from="1605721835636" duration="2883000" />
-      <workItem from="1605728145478" duration="2998000" />
+      <workItem from="1605728145478" duration="3749000" />
+      <workItem from="1605765035010" duration="64000" />
+      <workItem from="1605770361214" duration="298000" />
     </task>
     <servers />
   </component>
@@ -109,9 +113,9 @@
     <option name="oldMeFiltersMigrated" value="true" />
   </component>
   <component name="WindowStateProjectService">
-    <state x="548" y="166" key="FileChooserDialogImpl" timestamp="1605599538093">
+    <state x="548" y="166" key="FileChooserDialogImpl" timestamp="1605765099542">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
-    <state x="548" y="166" key="FileChooserDialogImpl/0.0.1536.824@0.0.1536.824" timestamp="1605599538093" />
+    <state x="548" y="166" key="FileChooserDialogImpl/0.0.1536.824@0.0.1536.824" timestamp="1605765099542" />
   </component>
 </project>
