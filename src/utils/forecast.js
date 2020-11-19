@@ -7,7 +7,7 @@ const forecast = (latitude,longitude , callback)=>{
         if(error){
             callback(error,undefined)
         }else {
-            callback(undefined, 'It is currently '+ body.main.temp + ' Degree')
+            callback(undefined, 'Today is '+ body.weather[0].description+ '. It is currently '+ body.main.temp + ' Degree. Today highest temperature is '+body.main.temp_max+ ' and lowest is '+body.main.temp_min)
         }
     })
 }
